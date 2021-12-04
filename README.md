@@ -19,6 +19,3 @@ Following shows the bit level interpretation of the algorithm :
 
 
 
-#### Class Domain Diagram
-
-![](https://raw.githubusercontent.com/aagarwal1012/Image-Steganography-Library-Android/master/UML/UMLDOC.PNG)
